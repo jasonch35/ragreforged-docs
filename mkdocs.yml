@@ -1,0 +1,46 @@
+site_name: "Ragnarok Online: Reforged"
+site_url: http://ragreforged.com
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: indigo
+      accent: blue grey 
+    - scheme: slate 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode    
+      primary: indigo
+      accent: blue grey
+  favicon: /images/favicon.ico
+  logo: /images/favicon.ico
+extra:
+  homepage: http://ragreforged.com
+  social:
+    - icon: fontawesome/brands/discord
+      link: http://ragreforged.com
+markdown_extensions:
+  - tables
+  - def_list
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+extra_css:
+  - stylesheets/extra.css
+copyright: |
+  &copy; 2024 <a href="http://ragreforged.com" target="_blank" rel="noopener">Ragnarok Online: Reforged</a>
