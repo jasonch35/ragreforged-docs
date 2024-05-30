@@ -25,7 +25,7 @@ Experience and Drop Rates can be boosted significantly through in-game modifiers
 
 - Players can no longer open Boxes or Quivers if weight is less than the weight of the contents
 
-- Sitting Regeneration is increased dramatically by 10 times
+- Sitting and Standing Regeneration ticks decreased by half
     -   <small>With this boost, players will be able to spend less time waiting and more time exploring.</small>
 
 - Items with a drop rate of 10% or less are now directly added to the inventory

@@ -23,20 +23,20 @@ Along with all the core features, we have introduced a few skill balancing. As d
 === "Swordsman"
 
     * ![Bash](images/sm_bash.gif) __Bash__ sp cost rescaled from 8/8/8/8/8/15/15/15/15/15 to 5 + 1 per skill level
-    * ![Increase HP Recovery](images/sm_recovery.gif) __Increase HP Recovery__ regen ticks from 10 seconds to 5
+    * ![Increase HP Recovery](images/sm_recovery.gif) __Increase HP Recovery__ regen ticks from 10 seconds to 6
     * ![Bowling Bash](images/kn_bowlingbash.gif) __Bowling Bash__ removed gutter line mechanics
     * ![Shield Boomerang](images/cr_shieldboomerang.gif) __Shield Boomerang__ damage rescaled from 100% + 30% per skill level to 110% + 30%. Removed bonus damage from shields' weight
 
 === "Mage"
 
-    * ![Increase SP Recovery](images/mg_srecovery.gif) __Increase SP Recovery__ regen ticks from 10 seconds to 5
+    * ![Increase SP Recovery](images/mg_srecovery.gif) __Increase SP Recovery__ regen ticks from 10 seconds to 6
     * ![Sense](images/wz_estimation.gif) __Sense__ removed from the game
     * ![Dragonology](images/sa_dragonology.gif) __Dragonology__ damage to dragon type monster rescaled from 4% per skill level to 5%. INT gain rescaled from 1/1/2/2/3 to 1 per skill level
     * ![Abracadabra](images/sa_abracadabra.gif) __Abracadabra__ summoning skills are disabled. Now only requires 1 Yellow Gemstone instead of 2
 
 === "Archer"
 
-    * ![Falconry Mastery](images/ht_falcon.gif) __Falconry Mastery__ now an acitve skill. Displays the current chance of triggering an automatic Blitz Beat when attacking.
+    * ![Falconry Mastery](images/ht_falcon.gif) __Falconry Mastery__ now an active skill. Displays the current chance of triggering an automatic Blitz Beat when attacking.
 
 === "Acolyte"
 
@@ -77,6 +77,11 @@ Along with all the core features, we have introduced a few skill balancing. As d
     * ![Left-Hand Mastery](images/as_left.gif) __Left-Hand Mastery__ damage regain increased from 30% + 10% to 50% + 10% per skill level
     * ![Katar Mastery](images/as_katar.gif) __Katar Mastery__ now provides 1 CRIT per level
     * ![Compulsive Discount](images/rg_compulsion.gif) __Compulsive Discount__ removed from the game
+    * ![Plagiarism](images/rg_plagiarism.gif) __Plagiarism__ now an active skill:
+        *   Lets you choose what skill to plagiarize directly. 
+        *   Can only be used in towns.
+        *   The passive effect is now disabled.
+        *   SP cost 15. Cooldown: 60 seconds.
 
 ## :material-arrow-right-box:{ .mybullets } Custom Party Buffs
 
