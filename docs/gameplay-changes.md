@@ -56,6 +56,7 @@ Experience and Drop Rates can be boosted significantly through in-game modifiers
 | @iteminfo @ii    | Shows item's type, price, etc. informations
 | @whodrops        | Lists all monsters that drop the item
 | @serverinfo      | Displays server time, experience and drop rates
+| @talent          | Access [Talent Tree](/core-features/#class-talent-tree-choose-your-branch) selection
 | @view            | Provides a link to preview an item
 | @poll            | Participate in polls in-game not just in our community platforms.
 
@@ -82,6 +83,10 @@ Forging and Brewing Success Rate are now determined by Base Level, Job Level, Ba
 The total Success Rate at Base Level 99 is calculated as if the character has effects such as Gloria, Gospel, Guild Leader passive, etc.
 
 This change also caters to casual players who want their characters to be in the rankings.
+
+### Autotrade Merchants
+
+While still applicable, all classes can now vend on their own.
 
 ### Endow Sage
 
